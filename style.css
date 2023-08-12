@@ -1,0 +1,23 @@
+.header, .image-container{
+    display: flex;
+    justify-content: center;
+}
+.cont{
+    width: 500px;
+    margin: auto;
+}
+
+.btn{
+    justify-content: space-around;
+    
+}
+button{
+    width: 200px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgba(233, 151, 193, 0.5);
+
+}
+.newBtn{
+    width: 100%;
+}
